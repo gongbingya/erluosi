@@ -1,0 +1,30 @@
+td{
+	border:1px solid #333;
+	width: 20px;
+	height: 20px;
+}
+table{
+	border-collapse: collapse;
+	background-color: black;
+}
+.c1{
+	background: -webkit-linear-gradient(top left , #ed3232, #682d18);
+}
+.c2{
+	background: -webkit-linear-gradient(top left , #ff8b00, #845205);
+}
+.c3{
+	background: -webkit-linear-gradient(top left , #f2ff00, #7a6600);
+}
+.c4{
+	background: -webkit-linear-gradient(top left , #7cff00, #214f05);
+}
+.c5{
+	background: -webkit-linear-gradient(top left , #00fffd, #043836);
+}
+.c6{
+	background: -webkit-linear-gradient(top left , #56a3ef, #043451);
+}
+.c7{
+	background: -webkit-linear-gradient(top left , #da82f8, #4b0874);
+}
